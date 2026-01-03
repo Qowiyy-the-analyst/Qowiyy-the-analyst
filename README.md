@@ -3,7 +3,7 @@
 I'm Qowiyy, a data analyst based in Nigeria
 
 
-I analysed data to make an infrmed decision, and I also train people on how to become productive with the data analysis tools.
+I analyse data to drive an informed decision, and I also train people on how to become productive with the data analysis tools.
 
 I have an academic background in Mathematics and statistics.
 
