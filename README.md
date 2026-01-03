@@ -12,11 +12,11 @@ My main tec stack is Financial analysis, and Data analysis. I am versatile with 
 I've got a lot of project, but my favourite project is the personal finance tracker
 
 
- ###### How to reach me: 
+ #### How to reach me: 
  Gmail: OyesijiQowiyy@gmail.com
  Linkedin: https://www.linkedin.com/in/qowiyy-oyesiji/
  
- ###### Fun fact: 
+ #### Fun fact: 
 - Training people on data analysis
 - Watching tutorial videos on my tech stacks
 - Taking care ofmy family
