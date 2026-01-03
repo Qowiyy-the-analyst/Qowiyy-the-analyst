@@ -14,7 +14,7 @@ I've got a lot of project, but my favourite project is the personal finance trac
 
  #### How to reach me: 
  Gmail: OyesijiQowiyy@gmail.com
- Linkedin: https://www.linkedin.com/in/qowiyy-oyesiji/
+
  
  #### Fun fact: 
 - Training people on data analysis
