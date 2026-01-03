@@ -5,7 +5,7 @@ I'm Qowiyy, a data analyst based in Nigeria
 
 I analyse data to drive an informed decision, and I also train people on how to become productive with the data analysis tools.
 
-I have an academic background in Mathematics and statistics.
+I have an academic background in Mathematics and statistics, with great interest in Finance
 
 My main tec stack is Financial analysis, and Data analysis. I am versatile with the use of Excel, Power BI and SQL.
 
