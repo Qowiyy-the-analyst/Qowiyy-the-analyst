@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Qowiyy-the-analyst/Qowiyy-the-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Qowiyy, a data analyst based in Nigeria
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I analysed data to make an infrmed decision, and I also train people on how to become productive with the data analysis tools.
+
+I have an academic background in Mathematics and statistics.
+
+My main tec stack is Financial analysis, and Data analysis. I am versatile with the use of Excel, Power BI and SQL.
+
+I've got a lot of project, but my favourite project is the personal finance tracker
+
+
+ ###### How to reach me: 
+ Gmail: OyesijiQowiyy@gmail.com
+ Linkedin: https://www.linkedin.com/in/qowiyy-oyesiji/
+ 
+ ###### Fun fact: 
+- Training people on data analysis
+- Watching tutorial videos on my tech stacks
+- Taking care ofmy family
